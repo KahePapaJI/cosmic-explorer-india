@@ -1,0 +1,11 @@
+{
+  "name": "cosmic-explorer-india",
+  "version": "1.0.0",
+  "description": "India's most advanced astronomy + earth science education platform",
+  "author": "KahePapaJI",
+  "license": "MIT",
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "outputDirectory": ".next"
+}
